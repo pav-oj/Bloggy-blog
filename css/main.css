@@ -1,0 +1,22 @@
+:root{
+    --main-color: #E2E0DF;
+    --nav-color: #B8B8B7;
+    --text-color: #0A0908;
+    --details-color: #9FB983;
+}
+
+@font-face {
+    font-family: 'NeutralFace';
+    src: url('../assets/fonts/NeutralFace.otf');
+  }
+
+@font-face {
+    font-family: 'NeutralFaceBold';
+    src: url('../assets/fonts/NeutralFace-Bold.otf');
+  }
+
+body{
+  color: #9FB983;
+  font-family: 'NeutralFaceBold';
+}
+  
